@@ -1,0 +1,20 @@
+{
+  "name": "export-scd",
+  "displayName": "Export Sprite Color Difference",
+  "description": "Export sprite color differences using all palettes in a folder",
+  "version": "0.1",
+  "author": {
+    "name": "doranarasi",
+    "email": "doranarasi@email.com",
+    "url": "https://doranarasi.com/" 
+  },
+  "contributors": [],
+  "publisher": "",
+  "license": "CC-BY-4.0",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+        { "path": "./export-scd.lua" }
+    ]
+  }
+}
